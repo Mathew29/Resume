@@ -2,3 +2,26 @@ div.important{
   font-size: 24px;
   font-family: sans-serif;
 }
+div.unimportant{
+  font-size: 24px;
+  font-family: sans-serif
+}
+div.skills{
+  font-size: 24px;
+  font-family: sans-serif
+}
+span.Education{
+font-size: 36px;
+}
+span.Work{
+font-size: 36px;
+}
+span.skills{
+font-size: 36px;
+}
+h1.Resume{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+}
